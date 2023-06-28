@@ -1,0 +1,15 @@
+body {
+    Background-color:      rgh (120,  110 110);
+    padding:20;
+}
+    h1{
+    text-aligh: center;
+    color: rgba(3, 3, 3,0. 813);
+    }
+    ul{
+    list-style-type:none;
+    }
+    li{
+    display: inline;
+    margin-right: 25px;
+    }
